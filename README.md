@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Nahak</h1>
 <h3 align="center">An aspiring Full Stack and MERN Developer with a keen interest in learning and implementing design and visually appealing styles</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-nahak&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-nahak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sneha-Nahak&label=Profile%20views&color=0e75b6&style=flat" alt="Sneha-Nahak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-nahak" alt="sneha-nahak" /></a> </p>
 
