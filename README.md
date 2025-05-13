@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snehanahak6@gmail.com**
 
-- 📄 Know about my experiences [https://Sneha-Nahak.github.io/resume.pdf](https://Sneha-Nahak.github.io/resume.pdf)
+- 📄 Know about my experiences [https://sneha-nahak.github.io/fs40_405845_Sneha-Nahak_Resume.pdf](https://sneha-nahak.github.io/fs40_405845_Sneha-Nahak_Resume.pdf)
 
 
 
